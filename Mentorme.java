@@ -12,6 +12,10 @@ public class Mentorme {
         System.out.println("Method navBar in Mentorme class");
     }
 
+    public void login() {
+        System.out.println("welcome to MentorMe");
+    }
+
     public static void main(String[] args) {
         System.out.println("MentorMe Application Started");
         
