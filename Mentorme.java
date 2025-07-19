@@ -8,6 +8,10 @@ public class Mentorme {
         System.out.println("Method m2 in Mentorme class");
     }
 
+    public void navBar() {
+        System.out.println("Method navBar in Mentorme class");
+    }
+
     public static void main(String[] args) {
         System.out.println("MentorMe Application Started");
         
